@@ -205,4 +205,4 @@ python app.py
 
 # 👨‍💻 Developed By
 
-**Kagithala Durga Prasad**
+**Gangumalla Naveen Kumar**
